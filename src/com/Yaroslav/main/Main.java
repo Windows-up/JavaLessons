@@ -17,6 +17,5 @@ public class Main {
         System.out.println("Phone2`s number " + phone2.getNumber());
         System.out.println("Phone3`s number " + phone3.getNumber());
 
-        phone1.receiveCall("Aaaaade");
     }
 }
