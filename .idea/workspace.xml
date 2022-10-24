@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e889feda-6190-46e1-98db-6b86a856a186" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaLessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson5/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/main/Main.java" afterDir="false" />
+    <list default="true" id="e889feda-6190-46e1-98db-6b86a856a186" name="Changes" comment="Lesson 5 homeTask">
+      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson6/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson6/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson6/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson6/animals/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson6/animals/Veterinarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson6/students/Aspirant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Yaroslav/lesson6/students/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Yaroslav/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Yaroslav/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
@@ -52,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666005298923</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 5 homeTask">
+      <created>1666007562431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666007562431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 5 homeTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5 homeTask" />
   </component>
 </project>
